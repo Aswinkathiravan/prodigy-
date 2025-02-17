@@ -1,6 +1,6 @@
 Tic-Tac-Toe
 
-A simple Tic-Tac-Toe game implemented in [your programming language]. This project allows two players to play the classic game in a command-line interface (or graphical UI, if applicable).
+A simple Tic-Tac-Toe game implemented in [html,css,javascript]. This project allows two players to play the classic game in a command-line interface .
 
 Features
 
